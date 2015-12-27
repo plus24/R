@@ -17,11 +17,11 @@ library(SnowballC)
 requestURL = "https://api.twitter.com/oauth/request_token"
 accessURL = "https://api.twitter.com/oauth/access_token"
 authURL = "https://api.twitter.com/oauth/authorize"
-consumerKey = "ggXVtM4ivy0nQ50Rc3nqIDAkw"
-consumerSecret = "gtPQEweYwxdkSXpQnWi2T5NuzkDgmJR6TWGGzceLemKmxrAgxs"
+consumerKey = "Your consumerKey"
+consumerSecret = "Your consumerSecret"
 
-accessToken = "109808141-Y2PTNwhv5aoKG63kP7FV0DYq7L1LTriMdZw5xolX"
-accessSecret = "kHwoQJWMR1D0wFXrmc05LvQlC2d8nps3d922041BlkOKE"
+accessToken = "Your accessToken"
+accessSecret = "Your accessSecret"
 
 setup_twitter_oauth(consumerKey,
                     consumerSecret,
